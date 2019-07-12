@@ -75,7 +75,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
-    <Compile Include="Extentions\WebDriverExtensions.cs" />
+    <Compile Include="Extensions\WebDriverExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Steps\Assertation_Step_Definitions.cs" />
     <Compile Include="Steps\Clicking_Step_Definitions.cs" />
